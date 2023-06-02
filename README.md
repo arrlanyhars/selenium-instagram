@@ -1,4 +1,4 @@
-# Instragam Selenium Project
+# Selenium Project - Instagram
 
 <h2>Objective</h2>
 In this project, I will scrape data using selenium python on instagram  profile.
