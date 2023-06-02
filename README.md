@@ -12,5 +12,4 @@ In this project, I will scrape data using selenium python on instagram  profile.
 [Here](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4?source=user_profile---------0----------------------------)
 
 <h2>Tools</h2>
-
-https://www.pngmart.com/files/7/Python-PNG-File.png
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
