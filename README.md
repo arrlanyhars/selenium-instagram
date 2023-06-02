@@ -1,3 +1,4 @@
-# selenium-instagram
+# Instragam Selenium Project
 
-check it out! script_medium.py
+<h1>Objective<h1/>
+In this project, I will scrape data using selenium on instagram  profile.
